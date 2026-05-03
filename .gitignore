@@ -1,0 +1,26 @@
+# Otros notebooks del workspace
+BoW y TFIDF.ipynb
+Copy of BoW y TFIDF.ipynb
+Estimacion_Fill_Rate_q95_lognorm.ipynb
+Funciones_Inferencia.ipynb
+Intro.ipynb
+Quants Guide to Financial Python.ipynb
+Regex_y_PoS.ipynb
+
+# Datos
+*.csv
+*.tsv
+*.json
+*.parquet
+*.xlsx
+*.xls
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Entorno
+.env
+*.pyc
+venv/
+.venv/
