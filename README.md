@@ -1,7 +1,7 @@
 # Text Mining — Amazon Music Reviews
 
 ## Descripción
-Notebook de análisis de texto sobre reseñas del mercado musical de Amazon (`Music_Market.csv`, 50 000 registros).  
+Notebook de análisis de texto sobre reseñas del mercado musical de Amazon (`Music_Market.csv`, 50 000 registros).
 Combina **Análisis de Sentimiento** con VADER y **Modelado de Temas** con LDA (Gensim).
 
 ---
