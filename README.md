@@ -85,4 +85,4 @@ text_mining_amazon_music_transactions/
 ---
 
 ## Autor
-**minus5-xp** · [github.com/minus5-xp](https://github.com/minus5-xp)
+**Hugo de Val** · [github.com/minus5-xp](https://github.com/minus5-xp)
